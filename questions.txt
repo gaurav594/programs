@@ -1,0 +1,11 @@
+- What is RAM?
+-How many bits are there in a BYTE?
+- which data type can holds the largest integer?
+- who has authority and responsibility to access the blueprint of database?
+-what is a primitive data type?
+-how an array is initialized?
+- how many phases are there in problem solving?
+-what happens if there is no proper planning to solve a problem?
+-a machine can be used to solve a problem by?
+-what is automation?
+-peripherals of computer are....? etc. etc.
